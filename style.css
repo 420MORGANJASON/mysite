@@ -2,7 +2,48 @@ h1{
     font-size: 100px;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(13, 13, 189);
-    color: rgb(0, 0, 0);
+    
+    color:rgb(0, 0, 0);
 
+}
+h1 style{font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font color: background-color: blue;
+
+
+}
+
+p{
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    
+
+
+}
+address{
+font-size: 30px;
+color: darkblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: inherit;
+
+}
+ 
+body-style{
+background-color: cornsilk;
+}
+
+h1{
+    border: 15px;color: solid blue;
+    padding: 20px;
+}
+address{
+    font-size: medium 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    border: 15px;color:
+    padding: 20px;
+}
+a{
+    font-size: 30px;
 }
